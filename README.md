@@ -9,3 +9,13 @@ The **Internship Placement System** is a user-friendly platform that connects st
 - **User Authentication**: Secure login and registration for students and admins.
 
 ## How It looks
+
+
+![Student log in page ](https://github.com/edinabwari/Internship_Placement_System/blob/main/Resources/studentlogin.png)
+![Student dashboard ](https://github.com/edinabwari/Internship_Placement_System/blob/main/Resources/Screenshot%202024-07-01%20213649.png)
+![Student dashboard ]()
+![Student dashboard ]()
+![Student dashboard ]()
+![Student dashboard ]()
+![Student dashboard ]()
+![Student dashboard ]()
