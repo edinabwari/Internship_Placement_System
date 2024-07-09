@@ -7,7 +7,6 @@ The **Internship Placement System** is a user-friendly platform that connects st
 - **Student Portal**: Browse and apply for internships.
 - **Admin Portal**: Post and manage internship listings.
 - **User Authentication**: Secure login and registration for students and admins.
-
 ## How It looks - Student Dashboards
 ![Student log in page ](https://github.com/edinabwari/Internship_Placement_System/blob/main/Resources/studentlogin.png)
 ![Student dashboard ](https://github.com/edinabwari/Internship_Placement_System/blob/main/Resources/Screenshot%202024-07-01%20213649.png)
@@ -18,5 +17,3 @@ The **Internship Placement System** is a user-friendly platform that connects st
 ![Admin dashboard ](https://github.com/edinabwari/Internship_Placement_System/blob/main/Resources/Screenshot%202024-07-01%20213935.png)
 ![Admin dashboard ](https://github.com/edinabwari/Internship_Placement_System/blob/main/Resources/Screenshot%202024-07-01%20213948.png)
 ![Admin dashboard ](https://github.com/edinabwari/Internship_Placement_System/blob/main/Resources/Screenshot%202024-07-01%20214000.png)
-
-
