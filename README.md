@@ -1,11 +1,13 @@
 ## About the Project
 
-The **Internship Placement System** is a user-friendly platform that connects students with internship opportunities posted by companies and organizations. The system allows placement staff to manage and post internship opportunities, while students can easily browse, apply, and track their applications.
-
+The **Internship Placement System** is a user-friendly platform that connects students with
+ internship opportunities posted by companies and organizations. 
+ The system allows placement staff to manage and post internship opportunities, 
+ while students can easily browse and apply for the internships.
 ## Features
 
-- **Student Portal**: Browse and apply for internships.
-- **Admin Portal**: Post and manage internship listings.
+- **Student Portal**: Create an account, LogIn, Browse and apply for internships.
+- **Admin Portal**: Post and manage internship listings, and other admins like placement staff.
 - **User Authentication**: Secure login and registration for students and admins.
 ## How It looks - Student Dashboards
 ![Student log in page ](https://github.com/edinabwari/Internship_Placement_System/blob/main/Resources/studentlogin.png)
